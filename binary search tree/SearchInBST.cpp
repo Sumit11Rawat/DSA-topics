@@ -1,4 +1,4 @@
-// In this code will be searching a particular key in a binary search tree
+// In this code we will be searching a particular key in a binary search tree
 // considering a maxheap
 #include<iostream>
 using namespace std;
@@ -30,7 +30,7 @@ int main(){
     // the bst is 
     //     5
     //   /   \
-mm  // 4     7
+    // 4     7
 //    /      /
 //  3       6
 node* root=new node(5);
