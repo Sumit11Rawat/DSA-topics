@@ -51,6 +51,11 @@ void printinorder(node* root){
     printinorder(root->right);
 }
 int main(){
+        //  1
+    //     / \
+    //    2   5
+//       /\  / \
+    //  3  4 6  7
 int inorder[]={3,2,4,1,6,5,7};
 int preorder[]={1,2,3,4,5,6,7};
 // create root 
