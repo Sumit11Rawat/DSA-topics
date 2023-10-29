@@ -1,5 +1,5 @@
 // Here we dicussed about the problem of finding the lowest common ancestor
-
+// LCA of two nodes is the closest node which is parent of both the nodes
 #include<queue>
 #include<iostream>
 using namespace std;
